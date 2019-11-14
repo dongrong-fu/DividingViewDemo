@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DividingView">
+        <attr name="start_num" format="float" />
+        <attr name="end_num" format="float" />
+        <attr name="size" format="integer" />
+        <attr name="size_contains" format="integer" />
+        <attr name="dividing_space" format="reference|dimension" />
+        <attr name="dividing_height_small" format="reference|dimension" />
+        <attr name="dividing_size_small" format="reference|dimension" />
+        <attr name="dividing_color_small" format="reference|color" />
+        <attr name="dividing_height_big" format="reference|dimension" />
+        <attr name="dividing_color_big" format="reference|color" />
+        <attr name="dividing_size_big" format="reference|dimension" />
+        <attr name="dividing_height_select" format="reference|dimension" />
+        <attr name="dividing_size_select" format="reference|dimension" />
+        <attr name="dividing_color_select" format="reference|color" />
+        <attr name="dividing_text_size" format="reference|dimension" />
+        <attr name="dividing_text_color" format="reference|color" />
+        <attr name="dividing_select_default" format="float" />
+        <attr name="dividing_background_color" format="reference|color" />
+        <attr name="dividing_align_center" format="reference|boolean" />
+        <attr name="dividing_width" format="reference|dimension" />
+        <attr name="dividing_oval_width" format="reference|dimension" />
+        <attr name="dividing_height" format="reference|dimension" />
+    </declare-styleable>
+</resources>
